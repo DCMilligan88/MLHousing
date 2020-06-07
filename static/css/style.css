@@ -1,0 +1,106 @@
+.top {
+    display: inline-block;
+    overflow: hidden;
+    color: white;
+    font-size: xx-large;
+    text-emphasis: bolder;
+    text-shadow: black;
+    text-align: center;
+    max-height: 300px;
+}
+
+.banner {
+    width: 100%;
+    position: relative; 
+}
+
+.house-title {
+    position: absolute;
+    top: 50%;
+    left:40%;
+}
+
+.container-fluid {
+    padding-left: 25px;
+    padding-right: 25px;
+    margin: auto;
+}
+
+.title {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.instructions {
+    /* margin: auto; */
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+.form-control{
+    width: 100%;
+}
+
+/* .form-group {
+    padding-right: 0px;
+} */
+
+.button-class {
+    padding-left: 0px !important;
+}
+
+button {
+    margin-bottom: 15px;
+    margin-left: 15px;
+    background-color: black !important;
+    border-color: rgb(136,165,142) !important;
+    position: absolute; 
+    bottom: 0px;
+    left: 10%;
+    width: 70%; 
+}
+
+.card {
+    margin-bottom: 25px;
+}
+
+.card-header{
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.card-footer {
+    color:rgb(136,165,142);
+    font-size: xx-large;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 15px;
+}
+
+.caution-sign {
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.data-section {
+    /* padding-bottom: 75px; */
+    padding-bottom: 15px;
+}
+.zip-district {
+    padding-bottom: 70px;
+    color:rgb(136,165,142);
+}
+
+/* footer of page */
+.copyright {
+    background-color:rgb(136,165,142);
+    /* border-top: 10px solid darkgreen ; */
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width:100%;
+    margin-right: 0px !important;
+    padding-right: 0px !important;
+    margin-bottom: 0px;
+}
