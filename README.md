@@ -39,8 +39,6 @@ Some possible future directions to take the project include:
 (Machine Learning In the Housing Market.pptx)
 
 ## This is what the finished product looks like
-<img src="static/images/Capture.png"
-     alt="Finished Product"
-     style="float: left; margin-right: 10px;" />
+![Finished Product](Capture.png "Finished Product")
 
 ### Tristan Holmes, Daniel Love, and Devin Milligan
