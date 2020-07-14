@@ -39,6 +39,6 @@ Some possible future directions to take the project include:
 (Machine Learning In the Housing Market.pptx)
 
 ## This is what the finished product looks like
-![Finished Product](Capture.png "Finished Product")
+![Finished Product](https://github.com/DCMilligan88/MLHousing/blob/master/Capture.PNG)
 
 ### Tristan Holmes, Daniel Love, and Devin Milligan
