@@ -35,7 +35,7 @@ Some possible future directions to take the project include:
 
 * Adjusting the user interface to make the application easier to use.
 
-## Our Power Point Presentation Goes a little deeper into our Process
+## If you would like to know more about our process please take a look at our power point.
 (Machine Learning In the Housing Market.pptx)
 
 ### Tristan Holmes, Daniel Love, and Devin Milligan
