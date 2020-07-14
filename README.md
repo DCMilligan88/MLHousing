@@ -38,4 +38,9 @@ Some possible future directions to take the project include:
 ## If you would like to know more about our process please take a look at our power point.
 (Machine Learning In the Housing Market.pptx)
 
+## This is what the finished product looks like
+<img src="static/images/Capture.png"
+     alt="Finished Product"
+     style="float: left; margin-right: 10px;" />
+
 ### Tristan Holmes, Daniel Love, and Devin Milligan
