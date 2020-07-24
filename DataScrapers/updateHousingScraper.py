@@ -12,7 +12,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy.ext.declarative import declarative_base
 
 # Initialize Splinter
-executable_path = {'executable_path': '/Users/daniellove/Downloads/chromedriver'}
+executable_path = {'executable_path': '/Users/DCMil/OneDrive/Desktop/Job Hunting/Repo Projects/MLHousing/Resources/chromedriver'}
 browser = Browser('chrome', **executable_path, headless=True)
 
 # Directing splinter to webpage
