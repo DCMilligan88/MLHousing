@@ -41,4 +41,10 @@ Some possible future directions to take the project include:
 ## This is what the finished product looks like
 ![Finished Product](https://github.com/DCMilligan88/MLHousing/blob/master/Capture.PNG)
 
+## A Note about the Chrome Driver
+To run our code you must use a chrome driver, we have included a chrome driver in our repository.
+The Chrome Driver we have may conflict with the version of chrome you have. The driver and Chrome browser
+must be the same version. Also, you will have to change the path of all uses of Chrome Driver as they will change
+when you download the repository.
+
 ### Tristan Holmes, Daniel Love, and Devin Milligan
