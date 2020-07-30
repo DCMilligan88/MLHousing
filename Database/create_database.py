@@ -26,7 +26,7 @@ class Listing(Base):
     elementary_school = Column(String(255))
 
 # Create the database connection.
-database_path = "Resources/housingUpdated.sqlite"
+database_path = "../Resources/housingUpdated.sqlite"
 engine = create_engine(f"sqlite:///{database_path}")
 conn = engine.connect()
 session = Session(bind=engine)
